@@ -176,4 +176,3 @@ This is a demonstration project. Feel free to fork and customize for your needs.
 ---
 
 Built with ❤️ using Next.js 15 and TypeScript
-# Ecommerce-Frontend-NextJS
